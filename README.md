@@ -13,13 +13,15 @@
 </p>
 
 # <h2 align="center">What am I working on?</h2>
-- GMT British RP - discord.gg/gmt 
+(Newest -> Oldest)
+- [GMT](https://discord.gg/gmt) *(FiveM Semi-RP/Fragging server)*
 
-# <h2 align="center">What are my previous projects?</h2>
-- GMA Roleplay | A semi rp / fragging server based around vRP framework.
+<h2 align="center">past projects</h2>
+(Newest -> Oldest)
 - BTF Roleplay | A semi rp / fragging server based around vRP framework.
-- Sinco Roleplay | A semi rp / fragging server based around vRP framework.
 - LUNA Roleplay | A semi rp / fragging server based around vRP framework.
+- GMA Roleplay | A semi rp / fragging server based around vRP framework.
+- Sinco Roleplay | A semi rp / fragging server based around vRP framework.
 
 # <h2 align="center">What am I hoping to do in the future?</h2>
 - I am hoping to become a well known developer who is fully known with the language, Lua.
