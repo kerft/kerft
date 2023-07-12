@@ -16,8 +16,7 @@
 
 # <h2 align="center">How can I be contacted?</h2>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eluxbar&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 - You can contact me through my discord | kerfoot
 [![Discord Presence](https://lanyard.cnrad.dev/api/1041903927253286952)](https://discord.com/users/1041903927253286952)
+
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eluxbar&theme=dark&hide_border=true)](https://git.io/streak-stats)
