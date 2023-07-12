@@ -23,9 +23,6 @@
 - GMA Roleplay | A semi rp / fragging server based around vRP framework.
 - Sinco Roleplay | A semi rp / fragging server based around vRP framework.
 
-# <h2 align="center">What am I hoping to do in the future?</h2>
-- I am hoping to become a well known developer who is fully known with the language, Lua.
-
 # <h2 align="center">How can I be contacted?</h2>
 
 - You can contact me through my discord | kerfoot
