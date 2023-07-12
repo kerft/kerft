@@ -1,9 +1,9 @@
 # <h2 align="center">About me</h2>
 - Ker
-- 17
+- 16
 
 # <h2 align="center">What am I working on?</h2>
-- Software Developer @ GMT Studios
+- GMT British RP - discord.gg/gmt 
 
 # <h2 align="center">What are my previous projects?</h2>
 - GMA Roleplay | A semi rp / fragging server based around vRP framework.
