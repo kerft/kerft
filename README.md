@@ -16,7 +16,7 @@
 (Newest -> Oldest)
 - [GMT](https://discord.gg/gmt) *(FiveM Semi-RP/Fragging server)*
 
-<h2 align="center">past projects</h2>
+# <h2 align="center">What are my previous projects?</h2>
 (Newest -> Oldest)
 - BTF Roleplay | A semi rp / fragging server based around vRP framework.
 - LUNA Roleplay | A semi rp / fragging server based around vRP framework.
