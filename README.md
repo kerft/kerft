@@ -14,8 +14,8 @@
 
 # <h2 align="center">What am I working on?</h2>
 (Newest -> Oldest)
-- [GMT](https://discord.gg/gmt) *(FiveM Semi-RP/Fragging server)*
 - [AVR](https://discord.gg/avr) *(FiveM Deathmatch/Fragging server)*
+- [GMT](https://discord.gg/gmt) *(FiveM Semi-RP/Fragging server)*
 
 # <h2 align="center">What are my previous projects?</h2>
 (Newest -> Oldest)
