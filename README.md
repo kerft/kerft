@@ -19,10 +19,12 @@
 
 # <h2 align="center">What are my previous projects?</h2>
 (Newest -> Oldest)
-- BTF Roleplay | A semi rp / fragging server based around vRP framework.
-- LUNA Roleplay | A semi rp / fragging server based around vRP framework.
-- GMA Roleplay | A semi rp / fragging server based around vRP framework.
-- Sinco Roleplay | A semi rp / fragging server based around vRP framework.
+- [BTF](discord.gg/btf5m) *(British/RP Fragging Server)*
+- [LUNA](discord.gg/luna5m) *(British/RP Fragging Server)*
+- [GMA](discord.gg/gma) *(British/RP Fragging Server)*
+- [Terror RP](dsc.gg/terrorp) *(British/Semi-RP Fragging Server)*
+- [DBR](https://discord.gg/dbruk) *(British/Semi-RP Fragging Server)*
+- [Sinco Roleplay](https://discord.gg/sinco) (British/Semi-RP Fragging Server)
 
 # <h2 align="center">How can I be contacted?</h2>
 
