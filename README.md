@@ -22,6 +22,7 @@
 - [LUNA](discord.gg/luna5m) *(British/RP Fragging Server)*
 - [GMA](discord.gg/gma) *(British/RP Fragging Server)*
 - [AQUA](dsc.gg/aqua5m) *(British/Semi-RP Fragging Server)*
+- [GBRP](discord.gg/gbrp) *(British/RP Fragging Server)*
 - [Terror RP](dsc.gg/terrorp) *(British/Semi-RP Fragging Server)*
 - [DBR](https://discord.gg/dbruk) *(British/Semi-RP Fragging Server)*
 - [Sinco Roleplay](https://discord.gg/sinco) (British/Semi-RP Fragging Server)
