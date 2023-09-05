@@ -10,7 +10,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="20" width="20" />
 </p>
 
-# <h2 align="center">What am I working on?</h2>
+# <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
  **Main focus**
 - [LUNA](https://discord.gg/lunarp) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
