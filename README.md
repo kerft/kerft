@@ -12,11 +12,13 @@
 
 # <h2 align="center">What am I working on?</h2>
 (Newest -> Oldest)
-- [VESPER](https://discord.gg/vesper) *(FiveM Semi-Roleplay/Fragging server)* **Main focus**
+ **Main focus**
+- [LUNA](https://discord.gg/lunarp) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
 - [AVR](https://discord.gg/avr) *(FiveM Deathmatch/Fragging server)* **Side Project**
 
 # <h2 align="center">What are my previous projects?</h2>
 (Newest -> Oldest)
+- [VESPER](https://discord.gg/vesper) *(FiveM Semi-Roleplay/Fragging server)*
 - [EVO](https://discord.gg/evo5m) *(FiveM Semi-Roleplay/Fragging server)*
 - [GMT](https://discord.gg/gmt) *(FiveM Roleplay/Fragging server)*
 - [RDG](dsc.gg/rdg) *(British/Semi-RP Fragging Server)*
