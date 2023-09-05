@@ -2,6 +2,8 @@
 
 - kerfoot
 - 16
+- united kingdom
+- developer in lua and js
 
 <h2 align="center">langs</h2>
 
