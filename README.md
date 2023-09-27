@@ -15,8 +15,8 @@
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
  **Main focus**
-- [LUNA](https://discord.gg/lunarp) *(FiveM Semi-Roleplay/Fragging server) Founded in november 2022* **Main Project**
-- [AVR](https://discord.gg/avr) *(FiveM Deathmatch/Fragging server)* **Side Project**
+- [LUNA](https://discord.gg/lunarp) *(FiveM Semi-Roleplay/Fragging server) Founded in november 2022* 
+- [AVR](https://discord.gg/avr) *(FiveM Deathmatch/Fragging server)*
 
 # <h2 align="center">What are my previous projects?</h2>
 (Newest -> Oldest)
