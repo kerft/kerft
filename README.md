@@ -35,7 +35,7 @@
 
 # <h2 align="center">How can I be contacted?</h2>
 
-- You can contact me through my discord | kerfoot
+- You can contact me through my discord | skeckerza
   
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/268072312366956545?theme=dark&bg=000001&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Inactive%20doing%20something%20else...)](https://discord.com/users/268072312366956545)
 
