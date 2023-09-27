@@ -15,7 +15,7 @@
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
  **Main focus**
-- [LUNA](https://discord.gg/lunarp) *(FiveM Semi-Roleplay/Fragging server)* **Main Project**
+- [LUNA](https://discord.gg/lunarp) *(FiveM Semi-Roleplay/Fragging server) Founded in november 2022* **Main Project**
 - [AVR](https://discord.gg/avr) *(FiveM Deathmatch/Fragging server)* **Side Project**
 
 # <h2 align="center">What are my previous projects?</h2>
@@ -27,7 +27,6 @@
 - [EVO](https://discord.gg/evo5m) *(FiveM Semi-Roleplay/Fragging server)*
 - [RDG](dsc.gg/rdg) *(British/Semi-RP Fragging Server)*
 - [BTF](discord.gg/btf5m) *(British/RP Fragging Server)*
-- [LUNA](discord.gg/luna5m) *(British/RP Fragging Server)*
 - [GMA](discord.gg/gma) *(British/RP Fragging Server)*
 - [AQUA](dsc.gg/aqua5m) *(British/Semi-RP Fragging Server)*
 - [GBRP](discord.gg/gbrp) *(British/RP Fragging Server)*
