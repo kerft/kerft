@@ -37,7 +37,7 @@
 
 - You can contact me through my discord | kerfoot
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1041903927253286952?theme=dark&bg=000001&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Inactive%20doing%20something%20else...)](https://discord.com/users/1041903927253286952)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/268072312366956545?theme=dark&bg=000001&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Inactive%20doing%20something%20else...)](https://discord.com/users/268072312366956545)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eluxbar&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <img src="https://komarev.com/ghpvc/?username=eluxbar&color=lightgray" alt="fax" width="" height="">
