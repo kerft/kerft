@@ -4,8 +4,10 @@
 - 16
 - united kingdom
 - developer in lua and js
+<p align="center">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="lua" height="20" width="20" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="20" width="20" />
+</p>
 
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
