@@ -1,13 +1,10 @@
 <h1>ker</h1>
+<img width="20" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" /> C#
 
-- evan
-- 16
-- united kingdom
-- developer in lua and js
-<p align="center">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="lua" height="20" width="20" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" height="20" width="20" />
-</p>
+<img width="20" src="https://img.icons8.com/color/512/fivem.png" /> Fivem
+
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
+
 
 # <h2 align="center">Current Projects?</h2>
 (Newest -> Oldest)
