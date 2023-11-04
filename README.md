@@ -8,7 +8,7 @@
 
 
 # <h2 align="center">Development</h2>
-- [British Themed FiveM (BTF)](https://discord.gg/btfrp) *(The best all-in-one bot for Discord)*
+- [British Themed FiveM (BTF)](https://discord.gg/btfrp) *(Semi-roleplay FiveM Server)*
 
 # <h2 align="center">Information</h2>
 
