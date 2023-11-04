@@ -8,7 +8,7 @@
 
 
 # <h2 align="center">Development</h2>
-- [? ? ?](https://discord.gg/neegro) *(The best all-in-one bot for Discord)*
+- [British Themed FiveM (BTF)](https://discord.gg/btfrp) *(The best all-in-one bot for Discord)*
 
 # <h2 align="center">Information</h2>
 
