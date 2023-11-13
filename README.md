@@ -12,6 +12,6 @@
 
 # <h2 align="center">Information</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eluxbar&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stripbar&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <img src="https://komarev.com/ghpvc/?username=stripbar&color=lightgray" alt="fax" width="" height="">
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stripbar&theme=transparent" />
