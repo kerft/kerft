@@ -9,7 +9,7 @@
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stripbar&theme=transparent" />
 
 <!-- Lua Logo with Bigger Font -->
-<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="font-size: 16px;" /> Lua
 
 <!-- Node.js Logo with Bigger Font -->
-<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" style="font-size: 20px;" /> NodeJS
