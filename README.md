@@ -12,4 +12,4 @@
 <img align="left" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJS Logo">
 
 
-<img align="left" width="40" src="https://tenor.com/view/cat-cat-e-cat-meme-cat-face-gif-23642589" alt="">
+https://tenor.com/view/cat-cat-e-cat-meme-cat-face-gif-23642589
