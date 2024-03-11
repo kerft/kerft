@@ -1,7 +1,7 @@
 # ker
 
 ## Development
-- [British Themed FiveM (BTF)](https://discord.gg/btfrp) *(Semi-roleplay FiveM Server)*
+- [British Themed FiveM (BTF)](https://discord.gg/WPXDk8tgQm) *(Semi-roleplay FiveM Server)*
 
 ## Information
 ![Profile Views](https://komarev.com/ghpvc/?username=6oa&color=lightgray)
