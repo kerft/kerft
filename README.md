@@ -7,7 +7,7 @@
 
 <h2 align="center">Current Project's</h2>
 
-- [Hextinction (Glife PVP)](https://discord.gg/hextinction)
+- [BTF (Semi-RP/Fragging)](https://discord.gg/btf5m)
 - Discord Multifunctional Bot
 - Optimiser Programs
 
