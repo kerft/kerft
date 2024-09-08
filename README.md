@@ -7,7 +7,7 @@
 
 <h2 align="center">Current Project's</h2>
 
-- [BTF (Semi-RP/Fragging)](https://discord.gg/btf5m)
+- [HVC (Semi-RP/Fragging)](https://discord.gg/v74PzegSRv)
 - Discord Multifunctional Bot
 - Optimiser Programs
 
