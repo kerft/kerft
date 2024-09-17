@@ -1,28 +1,25 @@
-<h1 align="center">6oa Info</h1>
+<div align="left">
 
-- Ker
-- 16
-- UK
-- Developer in various langs
+# Kerr
 
-<h2 align="center">Current Project's</h2>
+## Language's
 
-- [HVC (Semi-RP/Fragging)](https://discord.gg/NFks4XHj93)
-- Discord Multifunctional Bot
-- Optimiser Programs
+<img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=fivem" alt="FiveM">
+<img src="https://img.shields.io/badge/discord.js-black?style=for-the-badge&logo=discord" alt="discord.js">
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
+<img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 
-<h2 align="center">Language's</h2>
+## Tools
 
-<p align="center">
-    <img align="center" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JS" height="30" width="30" />
-    <img align="center" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" height="30" width="30" />
-    <img align="center" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" height="30" width="30" />
-    <img align="center" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" height="30" width="30" />
-    <img align="center" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" height="30" width="30" />
-</p>
+<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
+<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
 
-<h2 align="center">Stat's</h2>
+## GitHub Statistic's
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6oa&hide_border=true&card_width=338&theme=transparent"/>
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6oa&hide_border=true&card_width=338&theme=transparent"/>
+
+Discord: evn.
+
+</div>
