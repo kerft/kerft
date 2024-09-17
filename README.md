@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
 
-## Tools
+## Tools/Ops
 
 <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
