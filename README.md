@@ -21,6 +21,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=6oa&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="" /></a>
 
 ## Discord
-<img src="https://img.shields.io/badge/evn.-black?style=for-the-badge&logo=discord" alt="evn."> / <img src="https://img.shields.io/badge/hvc-black?style=for-the-badge&logo=discord" alt="HVC"> 
+<img src="https://img.shields.io/badge/evn.-black?style=for-the-badge&logo=discord" alt="evn.">
 
 </div>
