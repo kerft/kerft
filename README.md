@@ -5,6 +5,8 @@
 ## Language's
 
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=fivem" alt="FiveM">
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" alt="Javascript">
+<img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript" alt="Typescript">
 <img src="https://img.shields.io/badge/discord.js-black?style=for-the-badge&logo=discord" alt="discord.js">
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
