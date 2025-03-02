@@ -1,6 +1,6 @@
 <div align="left">
 
-# Kerr
+# ker
 
 ## Language's
 
@@ -13,7 +13,7 @@
 
 ## Tools/Ops
 
-<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
+<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge" alt="VS Code">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
