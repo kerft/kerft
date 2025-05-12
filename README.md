@@ -23,8 +23,16 @@
 
 ## GitHub Statistic's
 
-<a href="https://git.io/streak-stats"><img src="https://wakatime.com/badge/user/b43316f0-6cd7-4900-886c-3098f3d6dadf.svg" alt="" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-6oas-projects.vercel.app/api/wakatime?username=6oa&theme=transparent&v=2&hide_border=true&custom_title=Language%20Time of last 7 days:&hide=other" alt="" /></a>
+<div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://wakatime.com/badge/user/b43316f0-6cd7-4900-886c-3098f3d6dadf.svg" alt="" />
+  </a>
+</div>
+<div align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://wakatime.com/share/@6oa/c777e4e2-4c96-4185-b462-30ce0a9a8e53.svg" alt="" width="480" height="340" />
+  </a>
+</div>
 
 ## Discord
 <a href="https://discordapp.com/users/1041903927253286952"><img src="https://img.shields.io/badge/evn.-black?style=for-the-badge&logo=discord" alt="evn."></a>
