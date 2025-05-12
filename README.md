@@ -24,7 +24,7 @@
 ## GitHub Statistic's
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=6oa&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=6oa&theme=transparent&v=2&hide_border=true&custom_title=Language%20Time of last 7 days:&hide=other" alt="" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-6oas-projects.vercel.app/api/wakatime?username=6oa&theme=transparent&v=2&hide_border=true&custom_title=Language%20Time of last 7 days:&hide=other" alt="" /></a>
 
 ## Discord
 <a href="https://discordapp.com/users/1041903927253286952"><img src="https://img.shields.io/badge/evn.-black?style=for-the-badge&logo=discord" alt="evn."></a>
