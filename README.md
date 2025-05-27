@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="LUA">
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" alt="Javascript">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
-<img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript" alt="Typescript">
+<img src="https://img.shields.io/badge/Typescript%20(Learning)-black?style=for-the-badge&logo=typescript" alt="Typescript">
 
 ## Frameworks
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
