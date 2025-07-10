@@ -1,29 +1,27 @@
 <div align="left">
 
-# ker
+### Language's
+<img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua">
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/Typescript%20(Learning)-black?style=for-the-badge&logo=typescript">
 
-## Language's
+### Frameworks
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/fivem-black?style=for-the-badge&logo=fivem">
+<img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
 
-<img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="LUA">
-<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" alt="Javascript">
-<img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
-<img src="https://img.shields.io/badge/Typescript%20(Learning)-black?style=for-the-badge&logo=typescript" alt="Typescript">
+### Tools/Ops
 
-## Frameworks
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
-<img src="https://img.shields.io/badge/fivem-black?style=for-the-badge&logo=fivem" alt="FiveM">
-<img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">
+<img src="https://img.shields.io/badge/VS%20Code%20(Insiders)-black?style=for-the-badge&logo=vscodium">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Digital%20Ocean-black?style=for-the-badge&logo=digitalocean">
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux">
 
-## Tools/Ops
+##
+### GitHub Statistic's
 
-<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge" alt="VS Code">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux">
-<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows" alt="Windows">
 
-## GitHub Statistic's
-
-<div>
   <a>
     <img src="https://wakatime.com/badge/user/b43316f0-6cd7-4900-886c-3098f3d6dadf.svg" alt="" />
   </a>
@@ -32,9 +30,9 @@
   <a>
     <img src="https://wakatime.com/share/@6oa/c777e4e2-4c96-4185-b462-30ce0a9a8e53.svg" alt="" width="480" height="340" />
   </a>
-</div>
 
-## Discord
-<a href="https://discordapp.com/users/1041903927253286952"><img src="https://img.shields.io/badge/evn.-black?style=for-the-badge&logo=discord" alt="evn."></a>
+
+## 
+<a href="https://discordapp.com/users/1041903927253286952"><img src="https://img.shields.io/badge/Contact%20Me-black?style=for-the-badge&logo=discord" alt="evn."></a>
 
 </div>
