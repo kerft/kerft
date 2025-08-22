@@ -1,15 +1,15 @@
 <div align="left">
 
+### Frameworks
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/fivem-black?style=for-the-badge&logo=fivem">
+<img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
+
 ### Language's
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua">
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql">
 <img src="https://img.shields.io/badge/Typescript%20(Learning)-black?style=for-the-badge&logo=typescript">
-
-### Frameworks
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js">
-<img src="https://img.shields.io/badge/fivem-black?style=for-the-badge&logo=fivem">
-<img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
 
 ### Tools/Ops
 
