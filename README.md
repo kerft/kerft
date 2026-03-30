@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua">
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/Typescript%20(Learning)-black?style=for-the-badge&logo=typescript">
+<img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript">
 
 ### Tools/Ops
 
