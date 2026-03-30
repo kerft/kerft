@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/VS%20Code%20(Insiders)-black?style=for-the-badge&logo=vscodium">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 <img src="https://img.shields.io/badge/Digital%20Ocean-black?style=for-the-badge&logo=digitalocean">
+  <img src="https://img.shields.io/badge/nginx-black?style=for-the-badge&amp;logo=nginx&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux">
 
 ##
