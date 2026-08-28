@@ -52,7 +52,7 @@ i prefer building systems specifically around the projects i work on rather than
 <table>
 <tr>
 <td width="78%">
-&gt; <a href="https://youtube.com/@BTF5M"><b>BTF</b></a> — a FiveM server reworked around the vRP framework
+&gt; <a href="https://github.com/btfstudios"><b>BTF</b></a> — a FiveM server reworked around the vRP framework
 </td>
 <td width="22%" align="center">
 <code>2023 - 2025</code>
@@ -60,7 +60,7 @@ i prefer building systems specifically around the projects i work on rather than
 </tr>
 <tr>
 <td>
-&gt; <a href="https://discord.gg/9RGG9DCD4b"><b>WARFARE</b></a> — a custom FiveM deathmatch server
+&gt; <a href="https://github.com/wrrfare"><b>WARFARE</b></a> — a custom FiveM deathmatch server
 </td>
 <td align="center">
 <code>2024 - Present</code>
